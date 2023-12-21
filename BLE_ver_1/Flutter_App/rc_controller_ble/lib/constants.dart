@@ -1,0 +1,8 @@
+const DEVICE_MAC_ID = "34:85:18:8E:3C:C9";
+const SERVICE_UUID = "fc96f65e-318a-4001-84bd-77e9d12af44b";
+const CHARACTERISTIC_UUID_RX = "94b43599-5ea2-41e7-9d99-6ff9b904ae3a";
+const CHARACTERISTIC_UUID_TX = "04d3552e-b9b3-4be6-a8b4-aa43c4507c4d";
+
+const CMD_DC = 0x01;
+const CMD_SERVO = 0x02;
+const DATA_GAP = 3;
